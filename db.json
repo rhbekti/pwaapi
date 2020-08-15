@@ -1,0 +1,23 @@
+{
+"produk" : [
+{"id":1,"nama":"Avocet, pied","kategori":"Mauv"},
+{"id":2,"nama":"Phalarope, grey","kategori":"Indigo"},
+{"id":3,"nama":"Tamandua, southern","kategori":"Red"},
+{"id":4,"nama":"Quoll, spotted-tailed","kategori":"Fuscia"},
+{"id":5,"nama":"Chickadee, black-capped","kategori":"Khaki"},
+{"id":6,"nama":"Spider, wolf","kategori":"Red"},
+{"id":7,"nama":"Roller, lilac-breasted","kategori":"Blue"},
+{"id":8,"nama":"Stork, marabou","kategori":"Mauv"},
+{"id":9,"nama":"Egyptian cobra","kategori":"Red"},
+{"id":10,"nama":"Heron, grey","kategori":"Blue"},
+{"id":11,"nama":"Jackrabbit, white-tailed","kategori":"Purple"},
+{"id":12,"nama":"Western spotted skunk","kategori":"Purple"},
+{"id":13,"nama":"Green-winged macaw","kategori":"Violet"},
+{"id":14,"nama":"Osprey","kategori":"Blue"},
+{"id":15,"nama":"Phascogale, red-tailed","kategori":"Mauv"},
+{"id":16,"nama":"Iguana, marine","kategori":"Blue"},
+{"id":17,"nama":"Southern screamer","kategori":"Puce"},
+{"id":18,"nama":"Desert kangaroo rat","kategori":"Maroon"},
+{"id":19,"nama":"Gelada baboon","kategori":"Purple"},
+{"id":20,"nama":"Wood pigeon","kategori":"Maroon"}
+]}
